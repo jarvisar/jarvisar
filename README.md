@@ -8,16 +8,16 @@ Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 
 ### Work Experience
 
-###### Software Developer Co-Op | London Computer Systems | May 2022 - Present
-
-- Actively developed VoIP telephone solution using Asterisk and OpenSIPS
-- Built and maintained customer/admin portals frontend and backend using ASP.NET, Angular, and Web APIs
-- Achieved RM Certification within 90 days
-
 ###### IT Help-Desk Technician | University of Cincinnati: Lindner College of Business | Jan 2022 - Present
 
 - Assisted professors, faculty, and students with technical support utilizing ServiceNow
 - Solved hardware and A/V related issues within classrooms to ensure an active learning environment
+
+###### Software Developer Co-Op | London Computer Systems | May 2022 - Aug 2022
+
+- Actively developed VoIP telephone solution using Asterisk and OpenSIPS
+- Built and maintained customer/admin portals frontend and backend using ASP.NET, Angular, and Web APIs
+- Achieved RM Certification within 90 days
 
 ###### Assistant Software Developer | Martin & Associates | Aug 2019 - Dec 2021
 - Developed and maintained integration software between ERP and CRM systems
