@@ -6,6 +6,8 @@ I'm an undergraduate computer science student in my senior year with an expected
 
 Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 
+[LinkedIn](https://www.linkedin.com/in/jarvisar)
+
 ### Work Experience
 
 ##### IT Help-Desk Technician | University of Cincinnati: Lindner College of Business | Jan 2022 - Present
@@ -28,9 +30,3 @@ Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 - Designed BizIQ reports, organized internal documentation, and restructured sales database
 - Assisted in Quality Assurance to test newly developed software and eliminate errors
 - Refined CRM platform to improve efficiency and reliability
-
-### Project Sought
-
-I am very open-minded in terms of a project. 
-
-While I'm not sure what specific topic I'd like to research for the capstone, I am very open to hearing new ideas and working with new technologies/languages. Right now I'm focused on a software-based project, but I am always willing to research and consider new topics.
