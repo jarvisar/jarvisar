@@ -21,7 +21,7 @@ Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 - Built and maintained customer/admin portals frontend and backend using ASP.NET, C#, and Angular
 
 ##### Assistant Software Developer | Martin & Associates | Aug 2019 - Dec 2021
-- Developed and maintained integration software between ERP and CRM systems
+- Developed and maintained integration software between ERP and CRM systems using .NET, C#, and Web APIs
 - Implemented product features requested by clients to maximize compatibility
 - Responsible for assisting clients with technical support
 
