@@ -1,4 +1,4 @@
-# Hello, I'm [Adam Jarvis](https://www.linkedin.com/in/jarvisar](https://jarvisar.github.io/)
+# Hello, I'm [Adam Jarvis](https://jarvisar.github.io/)
 
 I'm an undergraduate computer science student in my senior year with an expected graduation date of Spring 2023. I have an interest in software development, computer networking, and information security. 
 
