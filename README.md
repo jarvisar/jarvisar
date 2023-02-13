@@ -6,6 +6,6 @@ I'm an undergraduate computer science student in my senior year with an expected
 
 Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 
-[LinkedIn](https://www.linkedin.com/in/jarvisar)
-
 Visit my [website](https://jarvisar.github.io/)
+
+[LinkedIn](https://www.linkedin.com/in/jarvisar)
