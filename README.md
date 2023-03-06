@@ -20,7 +20,6 @@ Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
 </div>
 <br>
 
-<p align="center">
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvisar&show_icons=true" />
-</p>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvisar&show_icons=true" />
+
 <!-- GitHub section: END -->
