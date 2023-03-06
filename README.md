@@ -19,8 +19,8 @@ Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="My Languages" height="192px"  width="300px"/>
 </div>
 <br>
-<b>:zap: GitHub Profile Stats</b>
+<b>GitHub Profile Stats</b>
 
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvisar&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvisar&show_icons=true" />
 
 <!-- GitHub section: END -->
