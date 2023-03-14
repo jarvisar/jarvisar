@@ -16,7 +16,7 @@ Feel free to [email](mailto:adamjarvis04@gmail.com) me at any time.
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvisar" alt="My LangStats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvisar&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvisar&layout=compact&theme=buefy&hide_border=true" />
 </div>
 <br>
 
