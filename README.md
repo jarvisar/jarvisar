@@ -6,7 +6,7 @@ Visit my [website](https://jarvisar.github.io/) to learn more.
 
 ### Contact Info
 
-Feel free to [email](mailto:jarvisar@mail.uc.edu) me at any time.
+Feel free to [email](mailto:adamjarvis04@gmail.com) me at any time.
 
 [LinkedIn](https://www.linkedin.com/in/jarvisar)
 
