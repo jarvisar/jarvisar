@@ -16,7 +16,7 @@ Feel free to [email](mailto:adamjarvis04@gmail.com) me at any time.
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvisar" alt="My LangStats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvisar&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="My Languages" height="192px"  width="300px"/>
 </div>
 <br>
 
