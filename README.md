@@ -20,6 +20,4 @@ Feel free to [email](mailto:adamjarvis04@gmail.com) me at any time.
 </div>
 <br>
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvisar&show_icons=true" />
-
 <!-- GitHub section: END -->
