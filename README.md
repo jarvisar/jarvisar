@@ -1,6 +1,6 @@
 # Hello, I'm [Adam Jarvis](https://jarvisar.github.io/)
 
-I'm a full-stack software developer with an interest in software engineering, web & API development, and information security. 
+I'm a software engineer with an interest in software, web & API development. 
 
 Visit my [website](https://jarvisar.github.io/) to learn more.
 
