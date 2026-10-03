@@ -6,6 +6,4 @@ Visit my [website](https://jarvisar.com/) to learn more.
 
 ### Contact Info
 
-[Resume](https://jarvisar.com/assets/AdamJarvisResume.pdf)
-
 [LinkedIn](https://www.linkedin.com/in/jarvisar)
