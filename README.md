@@ -4,6 +4,3 @@ I'm a software engineer with an interest in software, web, & API development.
 
 Visit my [website](https://jarvisar.com/) to learn more.
 
-### Contact Info
-
-[LinkedIn](https://www.linkedin.com/in/jarvisar)
